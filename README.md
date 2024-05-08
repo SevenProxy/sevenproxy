@@ -8,7 +8,7 @@
 
 ## 🤚 My name is Seven Proxy
 ( `CyberSecurity` | `Golang` | `Python` | `AWS` | `React JS` | `Vue` | `Typescript` | `Javascript` | `HTML` | `CSS` | `Tailwindcss` ) 🚀
-- 👩‍💻 Software Enginner @[Jurigit]([https://www.itau.com.br/](https://github.com/Jurigit))
+- 👩‍💻 Software Enginner @[Jurigit](https://github.com/Jurigit)
 - 🎓 CyberSecurity Student
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
