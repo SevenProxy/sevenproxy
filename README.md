@@ -1,3 +1,4 @@
+![BANNER]([https://github.com/SevenProxy/sevenproxy/blob/main/lain-linux.png)
 
 <h1>Hi There! 👋</h1>
 
