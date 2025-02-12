@@ -1,4 +1,7 @@
-![BANNER]([https://github.com/SevenProxy/sevenproxy/blob/main/lain-linux.png)
+<div align="center">
+  <img title="Banner README" src="https://github.com/SevenProxy/sevenproxy/blob/main/lain-linux.png" />
+</div>
+
 
 <h1>Hi There! 👋</h1>
 
