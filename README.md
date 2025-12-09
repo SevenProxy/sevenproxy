@@ -11,9 +11,9 @@
 <img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SevenProxy&hide_progress=true"  width="300px"/>
 
 ## 🤚 My name is Seven Proxy
-( `CyberSecurity` | `Golang` | `Python` | `AWS` | `React JS` | `Vue` | `Typescript` | `Javascript` | `HTML` | `CSS` | `Tailwindcss` ) 🚀
+( `CyberSecurity` | `Rust` | `Golang` | `Python` | `Typescript` | `Javascript` | `React JS` | `Vue` | ) 🚀
 - 👩‍💻 Software Enginner @[Jurigit](https://github.com/Jurigit)
-- 🎓 CyberSecurity Student
+- 🎓 CyberSecurity
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
 
