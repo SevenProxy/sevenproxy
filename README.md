@@ -20,7 +20,5 @@
 ## 🌐 Social Media
 
 <div align="center">
-
-<img title="Discord Presence" src="https://lanyard.cnrad.dev/api/1193791291125940309" href="https://discord.com/users/1193791291125940309" width="49%" />
-
+<a href="https://discord.com/users/1521367726474399835"><img src="https://lanyard.cnrad.dev/api/1521367726474399835" /></a>
 </div>
