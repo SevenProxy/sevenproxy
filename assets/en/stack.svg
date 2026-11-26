@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" role="img" aria-label="Stack: Rust, Go, Python, TypeScript, JavaScript, Elixir, C++, Shell, React, Vue, Docker, Nginx, Prisma, Gin, Actix and Hyprland">
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .sans { font-family: Inter, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .fade { animation: fade .5s ease-out both; }
+    @keyframes fade { from { opacity: 0; } }
+  </style>
+
+  <rect x=".5" y=".5" width="899" height="269" rx="12" fill="#0b0d12" stroke="#30363d"/>
+  <path d="M1 12a11 11 0 0 1 11-11h876a11 11 0 0 1 11 11v18H1z" fill="#151922"/>
+  <line x1="0" y1="30" x2="900" y2="30" stroke="#30363d"/>
+  <circle cx="19" cy="15" r="5" fill="#ff5f57"/>
+  <circle cx="36" cy="15" r="5" fill="#febc2e"/>
+  <circle cx="53" cy="15" r="5" fill="#28c840"/>
+  <text x="72" y="20" class="mono" font-size="11" fill="#8b949e">~/stack.toml</text>
+
+  <text x="20" y="56" class="mono" font-size="11" letter-spacing="1" fill="#a371f7">// languages</text>
+  <text x="460" y="56" class="mono" font-size="11" letter-spacing="1" fill="#79c0ff">// tools &amp; workflow</text>
+
+  <g class="fade" style="animation-delay:.05s">
+    <g class="sans">
+      <rect x="20" y="70" width="88" height="36" rx="8" fill="#121722" stroke="#30363d"/>
+      <circle cx="36" cy="88" r="5" fill="#ff7043"/>
+      <text x="47" y="92" font-size="12" font-weight="600" fill="#e6edf3">Rust</text>
+      <rect x="124" y="70" width="88" height="36" rx="8" fill="#121722" stroke="#30363d"/>
+      <circle cx="140" cy="88" r="5" fill="#79c0ff"/>
+      <text x="151" y="92" font-size="12" font-weight="600" fill="#e6edf3">Go</text>
+      <rect x="228" y="70" width="88" height="36" rx="8" fill="#121722" stroke="#30363d"/>
+      <circle cx="244" cy="88" r="5" fill="#f9c513"/>
+      <text x="255" y="92" font-size="12" font-weight="600" fill="#e6edf3">Python</text>
+      <rect x="332" y="70" width="88" height="36" rx="8" fill="#121722" stroke="#30363d"/>
+      <circle cx="348" cy="88" r="5" fill="#3178c6"/>
+      <text x="359" y="92" font-size="12" font-weight="600" fill="#e6edf3">TypeScript</text>
+      <rect x="20" y="116" width="88" height="36" rx="8" fill="#121722" stroke="#30363d"/>
+      <circle cx="36" cy="134" r="5" fill="#f0db4f"/>
+      <text x="47" y="138" font-size="12" font-weight="600" fill="#e6edf3">JS</text>
+      <rect x="124" y="116" width="88" height="36" rx="8" fill="#121722" stroke="#30363d"/>
+      <circle cx="140" cy="134" r="5" fill="#a371f7"/>
+      <text x="151" y="138" font-size="12" font-weight="600" fill="#e6edf3">Elixir</text>
+      <rect x="228" y="116" width="88" height="36" rx="8" fill="#121722" stroke="#30363d"/>
+      <circle cx="244" cy="134" r="5" fill="#ff7b72"/>
+      <text x="255" y="138" font-size="12" font-weight="600" fill="#e6edf3">C++</text>
+      <rect x="332" y="116" width="88" height="36" rx="8" fill="#121722" stroke="#30363d"/>
+      <circle cx="348" cy="134" r="5" fill="#7ee787"/>
+      <text x="359" y="138" font-size="12" font-weight="600" fill="#e6edf3">Shell</text>
+    </g>
+  </g>
+
+  <g class="fade" style="animation-delay:.15s">
+    <g class="sans">
+      <rect x="460" y="70" width="88" height="36" rx="8" fill="#121722" stroke="#30363d"/>
+      <circle cx="476" cy="88" r="5" fill="#61dafb"/>
+      <text x="487" y="92" font-size="12" font-weight="600" fill="#e6edf3">React</text>
+      <rect x="564" y="70" width="88" height="36" rx="8" fill="#121722" stroke="#30363d"/>
+      <circle cx="580" cy="88" r="5" fill="#42b883"/>
+      <text x="591" y="92" font-size="12" font-weight="600" fill="#e6edf3">Vue</text>
+      <rect x="668" y="70" width="88" height="36" rx="8" fill="#121722" stroke="#30363d"/>
+      <circle cx="684" cy="88" r="5" fill="#2496ed"/>
+      <text x="695" y="92" font-size="12" font-weight="600" fill="#e6edf3">Docker</text>
+      <rect x="772" y="70" width="88" height="36" rx="8" fill="#121722" stroke="#30363d"/>
+      <circle cx="788" cy="88" r="5" fill="#009639"/>
+      <text x="799" y="92" font-size="12" font-weight="600" fill="#e6edf3">Nginx</text>
+      <rect x="460" y="116" width="88" height="36" rx="8" fill="#121722" stroke="#30363d"/>
+      <circle cx="476" cy="134" r="5" fill="#f9c513"/>
+      <text x="487" y="138" font-size="12" font-weight="600" fill="#e6edf3">Prisma</text>
+      <rect x="564" y="116" width="88" height="36" rx="8" fill="#121722" stroke="#30363d"/>
+      <circle cx="580" cy="134" r="5" fill="#79c0ff"/>
+      <text x="591" y="138" font-size="12" font-weight="600" fill="#e6edf3">Gin</text>
+      <rect x="668" y="116" width="88" height="36" rx="8" fill="#121722" stroke="#30363d"/>
+      <circle cx="684" cy="134" r="5" fill="#f0883e"/>
+      <text x="695" y="138" font-size="12" font-weight="600" fill="#e6edf3">Actix</text>
+      <rect x="772" y="116" width="88" height="36" rx="8" fill="#121722" stroke="#30363d"/>
+      <circle cx="788" cy="134" r="5" fill="#d2a8ff"/>
+      <text x="799" y="138" font-size="12" font-weight="600" fill="#e6edf3">Hyprland</text>
+    </g>
+  </g>
+
+  <rect x="20" y="174" width="860" height="72" rx="9" fill="#0d1117" stroke="#21262d"/>
+  <g class="sans">
+    <text x="44" y="208" font-size="23" font-weight="700" fill="#fff">33</text>
+    <text x="44" y="225" font-size="7.5" letter-spacing="1.1" fill="#8b949e">PUBLIC REPOS</text>
+    <text x="214" y="208" font-size="23" font-weight="700" fill="#fff">22</text>
+    <text x="214" y="225" font-size="7.5" letter-spacing="1.1" fill="#8b949e">FOLLOWERS</text>
+    <text x="384" y="208" font-size="23" font-weight="700" fill="#fff">2021</text>
+    <text x="384" y="225" font-size="7.5" letter-spacing="1.1" fill="#8b949e">ON GITHUB SINCE</text>
+    <text x="554" y="208" font-size="23" font-weight="700" fill="#7ee787">open</text>
+    <text x="554" y="225" font-size="7.5" letter-spacing="1.1" fill="#8b949e">FOR CHALLENGES</text>
+  </g>
+  <line x1="724" y1="188" x2="724" y2="232" stroke="#21262d"/>
+  <g class="mono" font-size="11">
+    <text x="744" y="207" fill="#a371f7">$</text>
+    <text x="758" y="207" fill="#e6edf3">whoami</text>
+    <text x="744" y="225" fill="#8b949e">→ seven_proxy</text>
+  </g>
+</svg>

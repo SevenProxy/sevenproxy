@@ -1,6 +1,11 @@
-<img src="assets/hero.svg" width="100%" alt="SevenProxy: Software Engineer na Jurigit, baseado no Brasil, focado em CyberSecurity, Rust e desenvolvimento web" />
+<img src="assets/hero.svg" width="100%" alt="SevenProxy: Software Engineer na RubyParasolGames, baseado no Brasil, focado em CyberSecurity, Rust e desenvolvimento web" />
 
-<p align="center"><a href="https://github.com/SevenProxy/tesseract"><img src="assets/tile-tesseract.svg" width="50%" alt="Tesseract: portfolio em Rust, WebAssembly e Tailwind CSS" /></a><a href="https://github.com/SevenProxy/close_app"><img src="assets/tile-close-app.svg" width="50%" alt="close_app: GUI em Rust para encontrar e encerrar processos com SIGTERM" /></a><br /><a href="https://github.com/SevenProxy/gopacket-sniffer"><img src="assets/tile-gopacket.svg" width="50%" alt="gopacket-sniffer: captura e análise de pacotes em tempo real com Go" /></a><a href="https://github.com/SevenProxy/rchan"><img src="assets/tile-rchan.svg" width="50%" alt="rchan: imageboard em Python 3.11 com posts em tempo real via Socket.IO" /></a></p>
+<p align="center">
+  <a href="https://github.com/SevenProxy/tesseract"><img src="assets/tile-tesseract.svg" width="48%" alt="Tesseract: portfolio em Rust, WebAssembly e Tailwind CSS" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/SevenProxy/close_app"><img src="assets/tile-close-app.svg" width="48%" alt="close_app: GUI em Rust para encontrar e encerrar processos com SIGTERM" /></a><br /><br />
+  <a href="https://github.com/SevenProxy/gopacket-sniffer"><img src="assets/tile-gopacket.svg" width="48%" alt="gopacket-sniffer: captura e análise de pacotes em tempo real com Go" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/SevenProxy/rchan"><img src="assets/tile-rchan.svg" width="48%" alt="rchan: imageboard em Python 3.11 com posts em tempo real via Socket.IO" /></a>
+</p>
 
 <img src="assets/stack.svg" width="100%" alt="Stack: Rust, Go, Python, TypeScript, JavaScript, Elixir, C++, Shell, React, Vue, Docker, Nginx, Prisma, Gin, Actix e Hyprland" />
 
@@ -14,4 +19,4 @@
 
 <img src="assets/footer.svg" width="100%" alt="Rodapé" />
 
-<p align="center"><sub>🇧🇷 Feito no Brasil · <a href="https://github.com/SevenProxy?tab=repositories">ver todos os repos</a> · <b>PT-BR</b></sub></p>
+<p align="center"><sub>🇧🇷 Feito no Brasil · <a href="https://github.com/SevenProxy?tab=repositories">ver todos os repos</a> · 🌐 Read in: <b>Português</b> · <a href="README.en.md">English</a></sub></p>

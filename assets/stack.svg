@@ -3,7 +3,7 @@
     .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
     .sans { font-family: Inter, "Segoe UI", Helvetica, Arial, sans-serif; }
     .fade { animation: fade .5s ease-out both; }
-    @keyframes fade { from { opacity: 0; transform: translateY(4px); } }
+    @keyframes fade { from { opacity: 0; } }
   </style>
 
   <rect x=".5" y=".5" width="899" height="269" rx="12" fill="#0b0d12" stroke="#30363d"/>

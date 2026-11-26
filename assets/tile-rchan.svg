@@ -3,7 +3,7 @@
     .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
     .sans { font-family: Inter, "Segoe UI", Helvetica, Arial, sans-serif; }
     .ping { animation: ping 2s ease-out infinite; }
-    @keyframes ping { 0% { r: 3; opacity: .9; } 100% { r: 9; opacity: 0; } }
+    @keyframes ping { 50% { opacity: .15; } }
   </style>
 
   <rect x=".5" y=".5" width="449" height="213" rx="10" fill="#0b0d12" stroke="#30363d"/>
@@ -32,7 +32,7 @@
 
   <g class="mono">
     <rect x="272" y="50" width="158" height="132" rx="7" fill="#140e16" stroke="#f778ba" stroke-opacity=".35"/>
-    <circle class="ping" cx="286" cy="64" r="3" fill="none" stroke="#f778ba"/>
+    <circle class="ping" cx="286" cy="64" r="6" fill="none" stroke="#f778ba"/>
     <circle cx="286" cy="64" r="3" fill="#f778ba"/>
     <text x="297" y="67" font-size="8" letter-spacing=".8" fill="#f778ba">/g/ · online</text>
     <g>

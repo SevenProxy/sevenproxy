@@ -2,8 +2,6 @@
   <style>
     .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
     .sans { font-family: Inter, "Segoe UI", Helvetica, Arial, sans-serif; }
-    .spin { transform-origin: 351px 119px; animation: spin 18s linear infinite; }
-    @keyframes spin { to { transform: rotate(360deg); } }
   </style>
 
   <rect x=".5" y=".5" width="449" height="213" rx="10" fill="#0b0d12" stroke="#30363d"/>
@@ -30,7 +28,7 @@
     <text x="172" y="178" font-size="7" letter-spacing="1.1" fill="#80848e">STYLE</text>
   </g>
 
-  <g class="spin" fill="none" stroke-linejoin="round">
+  <g fill="none" stroke-linejoin="round">
     <rect x="300" y="70" width="96" height="96" rx="3" stroke="#79c0ff" stroke-width="1.4"/>
     <rect x="318" y="57" width="96" height="96" rx="3" stroke="#a371f7" stroke-width="1.4"/>
     <path d="M300 70 L318 57 M396 70 L414 57 M396 166 L414 153 M300 166 L318 153" stroke="#79c0ff" stroke-opacity=".6"/>
