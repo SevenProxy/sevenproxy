@@ -22,22 +22,22 @@
 
   <g class="mono" font-size="13" xml:space="preserve">
     <text x="20" y="56" fill="#484f58">1</text>
-    <text x="48" y="56"><tspan fill="#ff7b72">struct </tspan><tspan fill="#d2a8ff">Proxy</tspan><tspan fill="#e6edf3"> {</tspan></text>
+    <text x="48" y="56"><tspan fill="#ff7b72">let </tspan><tspan fill="#d2a8ff">proxy</tspan><tspan fill="#e6edf3"> = </tspan><tspan fill="#d2a8ff">Proxy</tspan><tspan fill="#e6edf3"> {</tspan></text>
 
     <text x="20" y="78" fill="#484f58">2</text>
-    <text x="48" y="78"><tspan fill="#79c0ff">  handle</tspan><tspan fill="#e6edf3">:   </tspan><tspan fill="#a5d6ff">"SevenProxy".to_string()</tspan><tspan fill="#e6edf3">,</tspan></text>
+    <text x="48" y="78"><tspan fill="#79c0ff">  handle</tspan><tspan fill="#e6edf3">: </tspan><tspan fill="#a5d6ff">"SevenProxy"</tspan><tspan fill="#e6edf3">,</tspan></text>
 
     <text x="20" y="100" fill="#484f58">3</text>
-    <text x="48" y="100"><tspan fill="#79c0ff">  role</tspan><tspan fill="#e6edf3">:     </tspan><tspan fill="#a5d6ff">"Software Engineer @RubyParasolGames".to_string()</tspan><tspan fill="#e6edf3">,</tspan></text>
+    <text x="48" y="100"><tspan fill="#79c0ff">  role</tspan><tspan fill="#e6edf3">:   </tspan><tspan fill="#a5d6ff">"Software Engineer @RubyParasolGames"</tspan><tspan fill="#e6edf3">,</tspan></text>
 
     <text x="20" y="122" fill="#484f58">4</text>
-    <text x="48" y="122"><tspan fill="#79c0ff">  base</tspan><tspan fill="#e6edf3">:     </tspan><tspan fill="#a5d6ff">"Brazil".to_string()</tspan><tspan fill="#e6edf3">,</tspan></text>
+    <text x="48" y="122"><tspan fill="#79c0ff">  base</tspan><tspan fill="#e6edf3">:   </tspan><tspan fill="#a5d6ff">"Brazil"</tspan><tspan fill="#e6edf3">,</tspan></text>
 
     <text x="20" y="144" fill="#484f58">5</text>
-    <text x="48" y="144"><tspan fill="#79c0ff">  focus</tspan><tspan fill="#e6edf3">:     </tspan><tspan fill="#a5d6ff">vec!["Security", "Rust", "Web"]</tspan><tspan fill="#e6edf3">,</tspan></text>
+    <text x="48" y="144"><tspan fill="#79c0ff">  focus</tspan><tspan fill="#e6edf3">:  </tspan><tspan fill="#a5d6ff">["Security", "Rust", "Web"]</tspan><tspan fill="#e6edf3">,</tspan></text>
 
     <text x="20" y="166" fill="#484f58">6</text>
-    <text x="48" y="166"><tspan fill="#79c0ff">  status</tspan><tspan fill="#e6edf3">:    </tspan><tspan fill="#a5d6ff">"open to challenges".to_string()</tspan><tspan fill="#e6edf3">,</tspan></text>
+    <text x="48" y="166"><tspan fill="#79c0ff">  status</tspan><tspan fill="#e6edf3">: </tspan><tspan fill="#a5d6ff">"open to challenges"</tspan><tspan fill="#e6edf3">,</tspan></text>
 
     <text x="20" y="188" fill="#484f58">7</text>
     <text x="48" y="188"><tspan fill="#e6edf3">};</tspan><tspan class="cursor" fill="#a371f7">▍</tspan></text>
