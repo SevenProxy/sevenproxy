@@ -60,8 +60,8 @@
       <circle cx="755" cy="160" r="3.5"/>
     </g>
     <text x="755" y="138" text-anchor="middle" class="sans" font-size="30" font-weight="700" fill="#e6edf3" letter-spacing="-1">7P</text>
-    <rect x="650" y="188" width="240" height="22" rx="11" fill="#10261a" stroke="#238636"/>
-    <circle class="pulse" cx="665" cy="199" r="4" fill="#3fb950"/>
-    <text x="677" y="203" font-size="10.5" letter-spacing=".6" fill="#7ee787">ONLINE · BR · 22 followers</text>
+    <rect x="635" y="188" width="240" height="22" rx="11" fill="#10261a" stroke="#238636"/>
+    <circle class="pulse" cx="650" cy="199" r="4" fill="#3fb950"/>
+    <text x="662" y="203" font-size="10.5" letter-spacing=".6" fill="#7ee787">ONLINE · BR · 22 followers</text>
   </g>
 </svg>
