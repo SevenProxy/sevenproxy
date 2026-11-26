@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="176" height="44" viewBox="0 0 176 44" role="img" aria-label="Discord: SevenProxy">
+  <style>.sans{font-family:Inter,"Segoe UI",Helvetica,Arial,sans-serif}</style>
+  <rect x=".5" y=".5" width="175" height="43" rx="9" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="23" cy="22" r="14" fill="#151a2b" stroke="#5865f2" stroke-opacity=".8"/>
+  <path d="M15 18c3-2 11-2 14 0l2 9-4 3-2-3h-6l-2 3-4-3z" fill="#8ea1ff"/>
+  <circle cx="19" cy="22" r="1.4" fill="#151a2b"/>
+  <circle cx="25" cy="22" r="1.4" fill="#151a2b"/>
+  <text x="46" y="27" class="sans" font-size="12.5" font-weight="600" fill="#e6edf3">@SevenProxy</text>
+</svg>
